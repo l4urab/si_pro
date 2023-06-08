@@ -1,0 +1,15 @@
+{
+    "require-dev": {
+        "symfony/maker-bundle": "^1.48",
+        "doctrine/doctrine-fixtures-bundle": "^3.4",
+        "fakerphp/faker": "^1.22"
+    },
+    "extra": {
+        "symfony": {
+            "allow-contrib": "true"
+        }
+    },
+    "require": {
+        "stof/doctrine-extensions-bundle": "^1.7"
+    }
+}
